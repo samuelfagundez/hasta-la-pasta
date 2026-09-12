@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local (fachada amarilla de
+   la esquina de Ciutat Vella, toldos rojos, el verde del logo "PASTA" y los
+   tonos crema/parmesano de los boles de pasta) — ver punto 0.5 del
+   handoff: nunca una paleta genérica de plantilla. */
+@theme {
+  --color-cream: #fbf3e1;
+  --color-cream-dark: #f3e2b8;
+  --color-ink: #2b2420;
+  --color-mustard: #e8b23a;
+  --color-mustard-dark: #c6921e;
+  --color-tomato: #c1392b;
+  --color-tomato-dark: #96281d;
+  --color-basil: #4c7a4b;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}

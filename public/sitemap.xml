@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/hasta-la-pasta/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/hasta-la-pasta/gallery/hasta-la-pasta-fachada.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/hasta-la-pasta/gallery/hasta-la-pasta-plaza-torres.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/hasta-la-pasta/gallery/hasta-la-pasta-boles-para-llevar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/hasta-la-pasta/gallery/hasta-la-pasta-variedad.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/hasta-la-pasta/gallery/hasta-la-pasta-cacio-e-pepe.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/hasta-la-pasta/gallery/hasta-la-pasta-carbonara-detalle.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
