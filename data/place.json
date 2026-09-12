@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/pqqDiCRjqhH8Nj4X6",
+    "expandedUrl": "https://www.google.com/maps/place/HASTA+LA+PASTA/@39.4765775,-0.3747377,21z/data=!4m6!3m5!1s0xd60498df2e744d3:0xccace7d1f9064b4c!8m2!3d39.4766072!4d-0.3745417!16s%2Fg%2F11n04226gr?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=3046409e-2e58-4dac-b20e-a2082e25435a&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=14748417768743652172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJ00Tn8o1JYA0RTEsG-dHnrMw",
+    "featureId": "0xd60498df2e744d3:0xccace7d1f9064b4c",
+    "gmapsPlaceRef": "/g/11n04226gr",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-12T18:05:53.111Z"
+  },
+  "name": "HASTA LA PASTA",
+  "rating": {
+    "score": 4.4,
+    "count": 1826
+  },
+  "phone": "+34 640 62 98 79",
+  "phoneNational": "640 62 98 79",
+  "hours": {
+    "weekly": [
+      "lunes: Cerrado",
+      "martes: 11:30–23:30",
+      "miércoles: 11:30–23:30",
+      "jueves: 11:30–23:30",
+      "viernes: 11:30–23:30",
+      "sábado: 11:30–23:30",
+      "domingo: 11:30–23:30"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 2,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 3,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 23,
+          "minute": 30
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/hastalapastaoficial/"
+    }
+  ],
+  "pricePerPerson": "1 € – 10 €",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "links": {
+    "website": "https://www.instagram.com/hastalapastaoficial/",
+    "menu": null,
+    "reservations": null,
+    "reservable": null,
+    "googleMaps": "https://maps.google.com/?cid=14748417768743652172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd60498df2e744d3:0xccace7d1f9064b4c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd60498df2e744d3:0xccace7d1f9064b4c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd60498df2e744d3:0xccace7d1f9064b4c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd60498df2e744d3:0xccace7d1f9064b4c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "C/ del Pes de la Farina, 1, Ciutat Vella, 46003 València, Valencia",
+    "short": "C/ del Peso de la Harina, 1, Valencia",
+    "components": {
+      "number": "1",
+      "street": "Carrer del Pes de la Farina",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46003"
+    }
+  },
+  "location": {
+    "lat": 39.4766072,
+    "lng": -0.3745417
+  },
+  "primaryType": "italian_restaurant",
+  "primaryTypeLabel": "Restaurante italiano",
+  "types": [
+    "italian_restaurant",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Comer en el local",
+    "Para llevar",
+    "Entrega a domicilio",
+    "Terraza / asientos fuera",
+    "Apto para niños",
+    "Apto para grupos",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Cerveza",
+    "Vino",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": null,
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 2268,
+      "heightPx": 4032,
+      "attribution": "HASTA LA PASTA",
+      "attributionUri": "https://maps.google.com/maps/contrib/115403343499962925018"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "attribution": "HASTA LA PASTA",
+      "attributionUri": "https://maps.google.com/maps/contrib/115403343499962925018"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Santiago Villarreal",
+      "attributionUri": "https://maps.google.com/maps/contrib/104926930423517503611"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 2464,
+      "heightPx": 2463,
+      "attribution": "Andrei Olah",
+      "attributionUri": "https://maps.google.com/maps/contrib/100519427800823544283"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 3064,
+      "heightPx": 4520,
+      "attribution": "guillermo MARTÍNEZ",
+      "attributionUri": "https://maps.google.com/maps/contrib/112219441844832633612"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Ivanna Marrero",
+      "attributionUri": "https://maps.google.com/maps/contrib/110401035291772182102"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 3456,
+      "heightPx": 3456,
+      "attribution": "Ukraine will win",
+      "attributionUri": "https://maps.google.com/maps/contrib/115354139341213656808"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Sara Gayle",
+      "attributionUri": "https://maps.google.com/maps/contrib/106179136355720651516"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "attribution": "Jeff Seaver",
+      "attributionUri": "https://maps.google.com/maps/contrib/114074528561588793845"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "attribution": "Magdalena Fernández Díaz",
+      "attributionUri": "https://maps.google.com/maps/contrib/100568838963534879785"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Rita Casaburo",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVqwRVdHxei_igQ4yr6wlqytPIF9Cjm9M2dKfX4g1xu2Oox0Hfp=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/100264639153413400125/reviews",
+      "rating": 5,
+      "text": "Excelente experiencia en Hasta la Pasta. La comida estaba deliciosa, con ingredientes de calidad y sabores auténticos. El servicio fue muy amable y atento en todo momento, y el ambiente es acogedor y agradable. Se nota el cuidado y la dedicación en cada detalle. Sin duda, un lugar muy recomendable para disfrutar de una buena comida italiana. ¡Volveremos pronto!",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-05-29T17:34:26.285655024Z"
+    },
+    {
+      "author": "Rocio Garcia De Fez",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJr-V1vS0qzHjCiURT3CopxoqwCjJenn2RyqUtjs9KaPhIXJA=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/100670303793918636342/reviews",
+      "rating": 1,
+      "text": "Pedimos pasta a la carbonara y tiramos la mitad del plato. La atención fue muy buena nos lo sirvieron muy rápido pero la comida dejaba mucho que desear. La pasta dura y mazacote, el bacon frio, tenia un sabor malo en general. Salimos muy decepcionados con la calidad y el sabor, aunque sea barato no vale la pena y hay sitios mejores.",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-09T20:20:07.453457828Z"
+    },
+    {
+      "author": "Valencia me Mola",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjV-j3TgZuHyxlHVcoXMnjZcvf8L8b2-C_duQU9bkGf5CK73uH4=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/103717650288634690088/reviews",
+      "rating": 5,
+      "text": "Ideal para turistas y gente joven.\nTe preparan un boll con tu pasta preferida, salsa al gusto y toppings variados para que puedas elegir.\nTe lo puedes comer tranquilamente en los banquitos de enfrente o en el jardín que hay al lado.",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-05-19T18:46:42.252331254Z"
+    },
+    {
+      "author": "Magdalena Fernández Díaz",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocLNuoKKnB6b8wxiYbXd2J0NkFwtMEguKnsG1BUWli0XdatneA=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/100568838963534879785/reviews",
+      "rating": 5,
+      "text": "Como si estuvieras en Roma.\nEs un puestecito en una esquina y tienes que buscarte un sitio para comer (aunque tienen 3 mesitas al lado del puesto).\nPedimos una carbonara y una cacio pepe.\nSin duda, la carbonara un aciertazo.\nPedimos un menú (donde por 4,50€ mas te ponen bebida y un snack) con raviolis fritos. Que espectáculo.\nParece poca cantidad pero terminas lleno.\nSin duda, un viaje a Roma 100%.",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-05-19T10:49:57.219405059Z"
+    },
+    {
+      "author": "Gabriela Torrens",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVQrOY1HUS65v8KAoxRcaXpGpuLz7UDIFt4ZdPywlSyDOmKvnez=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/114160001237781947815/reviews",
+      "rating": 5,
+      "text": "Súper descubrimiento! Pedimos la carbonara y los raviolis fritos y estaban deliciosos, auténtico sabor italiano. Lo mejor es la relación calidad-precio y el hecho de tener la plaza ahí mismo para sentarte a comer al aire libre. ¡Repetiremos seguro!",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-15T11:44:23.451793923Z"
+    }
+  ]
+}
